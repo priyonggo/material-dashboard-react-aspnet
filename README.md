@@ -74,7 +74,7 @@ Quick start options:
 
 - Download and install [Docker]("https://docs.docker.com/desktop/")
 - Clone the repo: `git clone https://github.com/creativetimofficial/material-dashboard-react-aspnet.git`.
-- [Download from Github](https://github.com/creativetimofficial/material-dashboard-react-aspnet/archive/master.zip).
+- [Download from Github](https://github.com/priyonggo/material-dashboard-react-aspnet/archive/master.zip).
 - [Download from Creative Tim](https://www.creative-tim.com/product/material-dashboard-react-aspnet).
 - From the project root folder run `docker-compose up --build`. Note that the first time you run this the images will build.
 - Once docker-compose has finished, you will find the projects on the following URLs:
